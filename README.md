@@ -94,3 +94,7 @@
 ### Step 9: Other Customization
 <img src="https://blog.zimonh.at/wp-content/uploads/2018/06/settings_translate.gif" width="720px" height="auto" />
 <p>You can also translate, adjust the tax-rate and the currency. For more information visit <a title="How to use" href="https://blog.zimonh.at/finance-tool-how-to-use/">How to use</a>.</p>
+
+## License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br>
+Copyright - ZIMONH 2018
