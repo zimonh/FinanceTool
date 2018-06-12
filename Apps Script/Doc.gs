@@ -8,7 +8,8 @@ function createDoc(row,col,bill_type,val){
   var  doc = DocumentApp.openById(settings_file[0][0]);
   var  body = doc.getBody();
   var A = gsbn(settings_sname[1][0]).getRange("A1").getValue();  //update the cell reference here
-if(A == "You have the latest version"){
+  Logger.log(A);
+if(A !== "New version available click here →"){
   var  name = doc.getName();
 
 
